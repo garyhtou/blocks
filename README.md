@@ -1,6 +1,6 @@
 # A Collection of GitHub Blocks
 
->📣 To use these blocks, you must first have access to [GitHub Blocks](https://blocks.githubnext.com/).
+>📣 To use these blocks, you'll need access to [GitHub Blocks](https://blocks.githubnext.com/).
 
 ## 📋 Prisma Schema
 
