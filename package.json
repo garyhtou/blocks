@@ -1,6 +1,6 @@
 {
-	"name": "custom-block-template",
-	"version": "0.0.0",
+	"name": "gary-tou-blocks",
+	"version": "1.0.0",
 	"license": "MIT",
 	"scripts": {
 		"start": "blocks start",
