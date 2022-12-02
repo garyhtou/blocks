@@ -7,5 +7,14 @@
 		"entry": "blocks/prisma-schema-erd/index.tsx",
 		"matches": ["*.prisma"],
 		"example_path": "https://github.com/prisma/prisma-examples/blob/latest/javascript/rest-express/prisma/schema.prisma"
+	},
+	{
+		"type": "file",
+		"id": "npm-package-summary",
+		"title": "NPM Package Summary",
+		"description": "A summary of all of your NPM dependencies.",
+		"entry": "blocks/npm-package-summary/index.tsx",
+		"matches": ["package.json"],
+		"example_path": "https://github.com/garyhtou/blocks/blob/main/package.json"
 	}
 ]
