@@ -1,8 +1,7 @@
 import { useEffect, useState } from 'react';
-import { Box, Spinner } from '@primer/react';
 import mermaid from 'mermaid';
 
-export default function renderMermaid({
+export default function Mermaid({
 	mmd,
 	config,
 }: {
