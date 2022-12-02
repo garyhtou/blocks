@@ -1,14 +1,20 @@
 {
-  "name": "custom-block-template",
-  "version": "0.0.0",
-  "license": "MIT",
-  "scripts": {
-    "start": "blocks start",
-    "build": "blocks build"
-  },
-  "dependencies": {
-    "@githubnext/blocks": "^2.2.0",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
-  }
+	"name": "custom-block-template",
+	"version": "0.0.0",
+	"license": "MIT",
+	"scripts": {
+		"start": "blocks start",
+		"build": "blocks build"
+	},
+	"prettier": "@garyhtou/prettier-config",
+	"dependencies": {
+		"@githubnext/blocks": "^2.2.0",
+		"axios": "^1.2.0",
+		"mermaid": "^9.2.2",
+		"react": "^18.1.0",
+		"react-dom": "^18.1.0"
+	},
+	"devDependencies": {
+		"@garyhtou/prettier-config": "^1.0.1"
+	}
 }
